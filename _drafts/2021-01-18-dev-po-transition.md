@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Être développeur, devenir product owner, est-ce compliqué ?
+title: De développeur à product owner, mes conseils pour une transition en terrain connu
 excerpt: Je suis développeur, je souhaite devenir product owner, comment réussir ma transition ?
 authors:
     - rcourbo
-permalink: /fr/etre-developpeur-devenir-product-owner-est-ce-complique/
+permalink: /fr/de-developpeur-a-product-owner-mes-conseils-pour-une-transition-en-terrain-connu/
 categories:
     - metier
     - product owner
