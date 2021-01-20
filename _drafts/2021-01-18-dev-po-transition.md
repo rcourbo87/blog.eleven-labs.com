@@ -26,7 +26,7 @@ Voilà, pour mon histoire. Maintenant, la première question à se poser, c’es
 
 Avant de se lancer dans une transition, qui n’est pas irréversible, mais qui n’est pas à prendre à la légère, il est important de se demander si nos envies et surtout nos qualités correspondent à ce nouveau challenge.
 
-En effet, le métier de PO, vous le connaissez grâce à vos expériences de développeur, vous avez sûrement dû le côtoyer. Vous en connaissez les missions principales et, avec le temps et l’investissement que vous mettrez dans cette transition, vous réussirez sûrement à maîtriser tout ce que l’on peut qualifier d’opérationnel (les outils de ticketing, les outils de prototypage, l’agilité et ses process, etc.). Ces compétences sont des atouts supplémentaires mais, de toute façon, vous les développerez avec le temps. Ce qui suit n’engage que moi, bien évidemment. Pour être un bon PO, il est nécessaire d’avoir certaines qualités intrinsèques, que voici !
+En effet, le métier de PO, vous le connaissez grâce à vos expériences de développeur, vous avez sûrement dû le côtoyer. Vous en connaissez les missions principales et, avec le temps et l’investissement que vous mettrez dans cette transition, vous réussirez sûrement à maîtriser tout ce que l’on peut qualifier d’opérationnel (les outils de ticketing, les outils de prototypage, l’agilité et ses process, etc.). Ces compétences sont incontournables, mais vous les développerez avec le temps. Ce qui suit n’engage que moi, bien évidemment. Pour être un bon PO, il est nécessaire d’avoir certaines qualités intrinsèques, que voici !
 
 L’empathie est sûrement la première des qualités. En effet, le PO doit être à l’écoute et capable de comprendre les besoins des utilisateurs afin de les restituer et les formaliser au mieux. Les entretiens, le dialogue, prennent une grande place dans notre mission de l’élaboration d’un produit au suivi en passant par le développement.
 
@@ -43,10 +43,11 @@ Lorsque j’ai entamé cette nouvelle aventure, je suis passé du statut de dév
 
 En tant que développeur, vous avez sûrement déjà travaillé sur un produit en collaboration avec un PO. Même si, parfois, vous pouvez vous demander : “mais le PO, il fait quoi en fait ???”, vous connaissez la réponse ! Pendant que vous travaillez sur votre projet, vous l’avez déjà vu :
 
-* organiser des réunions et discuter avec d’autres services d’autres sujets
-* mettre en place les différents rituels de suivi de votre projet
+* organiser des réunions et discuter avec d’autres services de différents sujets
+* mettre en place les différents rituels de suivi de développement du produit
 * vous exposer son backlog rempli de users stories
 * vous présenter des prototypes
+* etc
 
 Bref, tout ça vous est finalement familier, vous avez déjà des bases !
 
@@ -59,7 +60,7 @@ Bon, finalement, vous êtes plutôt bien armé pour vous lancer, maintenant, on 
 ## Comment réussir ma transition ?
 
 Ça y est, vous y êtes ! “Euh… et, maintenant, je fais quoi ?”
-Tout d’abord, lorsque vous commencerez, vous aurez peut être la sensation d’être un peu perdu face à certaines situations. Si vous avez la chance de pouvoir le faire, il existe des formations de quelques jours permettant de rappeler les différentes missions et tâches d’un PO (dont une très bonne que j’ai faite chez Xebia).
+Tout d’abord, lorsque vous commencerez, vous aurez peut être la sensation d’être un peu perdu face à certaines situations. Si vous avez la chance de pouvoir le faire, il existe des formations de quelques jours permettant de rappeler les différentes missions et tâches d’un PO (dont une très bonne que j’ai faite chez Xebia, Certified Scrum Product Owner, qui m'a permis d'être certifié, comme son nom l'indique...).
 Ensuite, une fois le développement d’un produit lancé, je me demandais souvent ce que faisait mon PO pendant cette période, en plus des différents rituels SCRUM. Eh bien, sachez qu’en tant que PO, il y a toujours quelque chose à faire ! La preuve...
 Quand les développeurs commencent à bosser, le PO, lui, continue à peaufiner son produit, son backlog est en perpétuelle évolution. 
 Il prépare les échéances futures en suivant sa roadmap. 
