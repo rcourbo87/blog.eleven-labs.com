@@ -15,7 +15,7 @@ tags:
 cover: 
 ---
 
-# Être développeur, devenir product owner, est-ce compliqué ?
+# De développeur à product owner, mes conseils pour une transition en terrain connu
 
 Chers développeurs, vous trouvez le métier de PO (product owner) plutôt cool ? Vous vous dites : “est-ce que c’est fait pour moi ? Mais comment faire ?”
 Je vais vous raconter tout ce que je sais à travers mon expérience.
